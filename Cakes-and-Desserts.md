@@ -1,6 +1,4 @@
 # Cakes and Desserts
-
-
 # Lemon Cake Loaf
 ## In mixer bowl add:
 
